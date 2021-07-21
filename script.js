@@ -1,4 +1,5 @@
-import { API_KEY as key } from './config.js';
+// Only use with teste in localhost
+// import { API_KEY as KEY } from './config.js';
 
 document.querySelector('.busca').addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -9,7 +10,7 @@ document.querySelector('.busca').addEventListener('submit', async (event) => {
         clearInfo();
         showWarning('Carregando...');
 
-        let url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(input)}&appid=${key}&units=metric&lang=pt_br`;
+        let url = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(input)}&appid=${KEY}&units=metric&lang=pt_br`;
 
         let results = await fetch(url);
         let json = await results.json();
