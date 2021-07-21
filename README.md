@@ -12,7 +12,7 @@ This project an weather search very usefull and integrated with [Open Weather Ma
 
 ## 🔧 Build
 
-This project can by make with API from Open Weather Map [here](https://openweathermap.org/current)
+This project can by make with API from Open Weather Map
 
 For use it to, just created an account for get you API key and add follow endpoint in your code.
 
