@@ -1,4 +1,3 @@
-Only use with teste in localhost
 import { API_KEY as KEY } from './config.js';
 
 document.querySelector('.busca').addEventListener('submit', async (event) => {
