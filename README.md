@@ -20,7 +20,7 @@ For use it to, just created an account for get you API key and add follow endpoi
 
 <pre><code>api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}</code></pre>
 
-To abous more check official documentatio [docs](https://openweathermap.org/current)
+To about more check official documentatio [docs](https://openweathermap.org/current)
 
 ### OBS: Some cases after create account API needed wait 24h to acctivate
 
