@@ -10,8 +10,6 @@
 
 This project an weather search very usefull and integrated with [Open Weather Map](https://openweathermap.org/) databese.
 
-You can see workin [here](https://jeferson1.github.io/D7JS_WEATHER_BASE/)
-
 ## 🔧 Build
 
 This project can by make with API from Open Weather Map [here](https://openweathermap.org/current)
